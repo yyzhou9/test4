@@ -1,18 +1,9 @@
 ---
 title: ZHOU
-role: Graduate student
-bio: My research interests include financial accounting.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+role: ""
+bio: ""
+interests: []
+social: []
 organizations: []
 education:
   courses:
@@ -27,4 +18,3 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a graduate student. (This is biology)
