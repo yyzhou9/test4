@@ -7,9 +7,9 @@ social: []
 organizations: []
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BBA
+      institution: HKBU
+      year: 2022
 superuser: true
 status:
   icon: ☕️
